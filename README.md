@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Trung
 
 🎓 **IT Undergraduate | Minor in AI**  
 🚀 **Passionate about AI, Deep Learning, and Computer Vision**  
