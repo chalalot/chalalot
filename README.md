@@ -1,9 +1,25 @@
-### Hi there 👋
 
-👋 Hey there! I'm Trung, a passionate IT professional with a focus on data analytics. I am currently a undergradute from RMIT University in Melbourne, where I majored in Information Technology. My journey in IT has been shaped by a keen interest in harnessing the power of data to drive meaningful insights and decisions.
 
-📊 My toolbox includes a blend of R, Excel, and Python, which I wield adeptly to wrangle, analyze, and visualize data. Whether it's exploring trends, building predictive models, or crafting insightful reports, I thrive on transforming raw data into actionable intelligence. I am also on my path of learning and practicing with more BI and visualizing tools such as R, Power BI and Tableau!
+# 👋 Hi, I'm [Your Name]  
 
-💻 When I'm not coding or diving into datasets, you can find me exploring the latest advancements in data science, honing my skills through online courses, or contributing to open-source projects.
+🎓 **IT Undergraduate | Minor in AI**  
+🚀 **Passionate about AI, Deep Learning, and Computer Vision**  
+💡 **Building data-driven solutions and AI-powered applications**  
 
-🌐 Let's connect and collaborate on projects that leverage the potential of data to make a real impact!
+## About Me  
+I'm an enthusiastic IT student with a strong interest in **AI, deep learning, and computer vision**. My repositories include:  
+- **Personal assignments** (some enhanced beyond school submissions 🚀)  
+- **Data Science projects** 📊  
+- **Utility-based web applications** 🌐  
+- **Experimental AI models & applications** 🤖  
+
+Currently, I'm working on an exciting **Computer Vision-based game**, combining AI and interactive gameplay!  
+
+## 🔧 Technologies & Tools  
+💻 **Languages**: Python, JavaScript, GDScript  
+📊 **Data Science**: Pandas, NumPy, Scikit-learn  
+🧠 **AI & Deep Learning**: TensorFlow, OpenCV, MediaPipe 
+🌐 **Web Dev**: Flask
+
+📫 **Let's Connect!**  
+Feel free to check out my projects and reach out if you're interested in **collaborating on AI or deep learning applications!** 🚀  
