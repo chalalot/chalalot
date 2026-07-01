@@ -1,25 +1,25 @@
+### Hi, I'm Trung 👋
 
+AI / Automation Engineer building multi-agent AI pipelines and workflow automations that save teams real hours every week.
 
-# 👋 Hi, I'm Trung
+- 🔭 Building **Pennyworth** — an AI creator-matching engine for TikTok Shop, as founder & team lead of an 8-person startup team (VinUni ELAB × Ecomdy Media)
+- 💼 Prompt & Automation Engineer at **Athena Studio** — CrewAI multi-agent pipelines, Streamlit tools, and n8n/Python automations saving 20+ hours/week
+- 🎓 Teach applied AI 1-on-1 worldwide on **Preply** — 69 lessons, 20+ students, from beginners to senior managers
+- 🎓 B. Information Technology (AI minor) @ RMIT University Vietnam — Dean's List, Top 5%; exchange @ RMIT Melbourne
+- 🌱 Currently deep in multi-agent systems, LLM tooling, and cloud deployment
 
-🎓 **IT Undergraduate | Minor in AI**  
-🚀 **Passionate about AI, Deep Learning, and Computer Vision**  
-💡 **Building data-driven solutions and AI-powered applications**  
+#### 🛠️ Tech Stack
 
-## About Me  
-I'm an enthusiastic IT student with a strong interest in **AI, deep learning, and computer vision**. My repositories include:  
-- **Personal assignments** (some enhanced beyond school submissions 🚀)  
-- **Data Science projects** 📊  
-- **Utility-based web applications** 🌐  
-- **Experimental AI models & applications** 🤖  
+**AI & LLM:** CrewAI · OpenAI / Claude / Gemini APIs · ComfyUI · Vertex AI · Prompt & agent engineering
+**Automation & Data:** n8n · Python · SQLite · Apify · ScrapingBee
+**Frontend & Backend:** React · Streamlit · Node.js · FastAPI · Flask
+**Cloud & DevOps:** Docker · Google Cloud (Cloud Run, Cloud SQL, GCS, Compute Engine)
 
-Currently, I'm working on an exciting **Computer Vision-based game**, combining AI and interactive gameplay!  
+#### 🚀 Featured Project
 
-## 🔧 Technologies & Tools  
-💻 **Languages**: Python, JavaScript, GDScript  
-📊 **Data Science**: Pandas, NumPy, Scikit-learn  
-🧠 **AI & Deep Learning**: TensorFlow, OpenCV, MediaPipe 
-🌐 **Web Dev**: Flask
+**AURA — AI Reception Assistant** (RMIT Capstone, w/ Nextway Technology)
+React + Three.js AI receptionist with real-time speech-to-text/text-to-speech, packaged in Docker to run fully offline with VNeID login and on-device data handling.
 
-📫 **Let's Connect!**  
-Feel free to check out my projects and reach out if you're interested in **collaborating on AI or deep learning applications!** 🚀  
+#### 📫 Reach me
+
+Email: trungtt810@gmail.com · [LinkedIn](#) · Hanoi, Vietnam
